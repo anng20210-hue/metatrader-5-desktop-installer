@@ -1,0 +1,6 @@
+coverage/
+.env.local
+build/
+dist/
+npm-debug.log*
+_site/
